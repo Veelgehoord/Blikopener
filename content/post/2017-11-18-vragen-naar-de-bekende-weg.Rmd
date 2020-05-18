@@ -1,0 +1,21 @@
+---
+title: Vragen naar de bekende weg
+author: Peter Hoffenaar
+date: '2017-11-18'
+slug: vragen-naar-de-bekende-weg
+categories:
+  - Ouders
+tags:
+  - Taal en rekenen
+archives: '2017'
+---
+Een peuter zijn is niet altijd leuk. Toen ik vandaag rustig wilde spelen vuurde mijn moeder een reeks vragen op mij af. _‘Wat is dat?’ ‘Waar is die knop voor?’ ‘Welke kleur heeft die auto?’_
+
+Allemaal zogenaamd pedagogische vragen. Het ging in zo’n tempo dat ik de tel ben kwijtgeraakt. Maar twee onderzoekers van de Rutgers University in Newark analyseerden 230 gesprekken met jonge kinderen, alle uitgeschreven en voor iedereen toegankelijk gemaakt [(CHILDES, CHIld Language Data Exchange System)](https://childes.talkbank.org/browser/index.php?url=Eng-NA/)
+
+Zij telden soms wel 50 pedagogische vragen in een half uurtje. Hoogopgeleide millennial-moeders doen daar nog een schepje bovenop. Uiteraard heb ik braaf naar antwoorden gezocht en heb ik die knop ingedrukt. Of ik nu veel slimmer ben zal uit vervolgonderzoek moeten blijken. 
+
+Yu, Y., Bonawitz, E., & Shafto, P. (2019). Pedagogical Questions in Parent–Child Conversations. Child Development, 90(1), 147–161. https://doi.org/10.1111/cdev.12850
+
+*Voor een vergelijkbare studie onder Spaanstalige ouders en kinderen zie https://scripties.uba.uva.nl/download?fid=673453
+

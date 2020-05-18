@@ -1,0 +1,19 @@
+---
+title: Pijnlijke verschillen
+author: Peter Hoffenaar
+date: '2019-12-18'
+slug: pijnlijke-verschillen
+categories:
+  - Kinderen
+tags:
+  - Pijn
+archives: '2019'
+---
+Chronische buikklachten kunnen niet altijd begrepen worden vanuit een medische blik. Cognitieve gedragstherapie, hypnotherapie of kinderyoga zijn dan mogelijke behandelstrategieën, maar wat is de beste keuze? 
+
+Het meest informatief zijn meta-analyses. Deze geven een betrouwbaar beeld van de effectiviteit, mits de daarin opgenomen studies goed vergelijkbaar zijn. Helaas valt dat tegen. 
+
+Judith Zeevenhooven, arts-onderzoeker in het Emma Kinderziekenhuis laat zien dat onderzoekers telkens op andere manieren meten of de behandeling werkt. Van de 64 onderzochte artikelen richtte een grote groep zich weliswaar op de pijn zelf, maar klachtenvermindering betekende soms minder pijnaanvallen per dag, dan weer een groter aantal pijnvrije dagen en soms alleen maar minder hevige buikpijn. De auteurs pleiten voor één set uitkomstmaten die standaard onderdeel zou moeten uitmaken van toekomstige trials.
+
+Zeevenhooven, J., Timp, M. L., Singendonk, M. M. J., Benninga, M. A., & Tabbers, M. M. (2019). Definitions of Pediatric Functional Abdominal Pain Disorders and Outcome Measures: A Systematic Review. The Journal of Pediatrics, 212, 52-59.e16. https://doi.org/10.1016/j.jpeds.2019.04.048
+

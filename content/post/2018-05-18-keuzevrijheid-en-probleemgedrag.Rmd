@@ -1,0 +1,22 @@
+---
+title: Keuzevrijheid en probleemgedrag
+author: Peter Hoffenaar
+date: '2018-09-18'
+slug: keuzevrijheid-en-probleemgedrag
+categories:
+  - Kinderen
+tags:
+  - Speciale kinderen
+archives: '2018'
+---
+Mensen met een lichte verstandelijke beperking (LVB) in staat stellen hun eigen keuzes te maken. Zo’n eenvoudige aanpak kan toch niet zorgen voor minder grensoverschrijdend gedrag? Nou, toch wel.
+
+De eerste positieve resultaten dateren al van bijna dertig jaar terug. In een N=1 studie met een zogeheten ABAB-design mocht de elfjarige George afwisselend zelf bepalen wat hij deed of moest hij zijn taakjes in een vooraf bepaalde volgorde doen. 
+
+![](/post/2018-05-18-keuzevrijheid-en-probleemgedrag_files/ABAB design 16072018.jpg)
+
+Zodra hij naar hartenlust kon puzzelen, vertoonde hij minder agressief gedrag. Meerdere single-case studies volgden en op basis van meta-analyses van al die studies kan geconcludeerd worden dat interventies gericht op het vergroten van keuzemogelijkheden effectief zijn. 
+
+Shogren, K. A., Faggella-Luby, M. N., Bae, S. J., & Wehmeyer, M. L. (2004). The Effect of Choice-Making as an Intervention for Problem Behavior: A Meta-Analysis. Journal of Positive Behavior Interventions, 6(4), 228–237. https://doi.org/10.1177/10983007040060040401
+
+Zelinsky, N. A. M., & Shadish, W. (2018). A demonstration of how to do a meta-analysis that combines single-case designs with between-groups experiments: The effects of choice making on challenging behaviors performed by people with disabilities. Developmental Neurorehabilitation, 21(4), 266–278. https://doi.org/10.3109/17518423.2015.1100690

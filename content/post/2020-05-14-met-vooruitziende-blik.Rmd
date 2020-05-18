@@ -1,0 +1,16 @@
+---
+title: Met vooruitziende blik
+author: Peter Hoffenaar
+date: '2017-05-14'
+slug: met-vooruitziende-blik
+categories:
+  - Kinderen
+tags: []
+Description: ''
+Tags: []
+---
+Hoera, een pyjama-feestje! De hele klas kijkt er naar uit, maar zullen de hooggespannen verwachtingen worden waargemaakt? Van volwassenen weten we dat ze de impact van de mooie en nare dingen in het leven overschatten. Zo maakt een stedentrip niet immens gelukkig, hooguit moe en voldaan. Hoe zit dat als kinderen vooruitkijken?
+
+Shalini Gautam en haar collega’s van het [Early Cognitive Development Centrum](https://ecdc.psychology.uq.edu.au/) aan de University of Queensland in Australië  lieten vijfjarigen voorspellen hoe blij ze zouden zijn na het winnen van een spelletje. Ook vroegen ze hoe goed ze tegen hun verlies dachten te kunnen. In beide gevallen konden ze kiezen uit vrolijke of minder vrolijke smileys. Na druk te zijn geweest met een opvultaakje, was het tijd voor het spel. Daarna kregen ze weer de smileys voorgelegd, maar nu om hun daadwerkelijke gevoelens te peilen. Wat bleek? Verliezen was minder erg, maar winnen maakte net zo blij als vooraf gedacht. 
+
+Gautam, S., Bulley, A., von Hippel, W., & Suddendorf, T. (2017). Affective forecasting bias in preschool children. Journal of Experimental Child Psychology, 159, 175–184. https://doi.org/10.1016/j.jecp.2017.02.005

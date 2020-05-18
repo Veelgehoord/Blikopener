@@ -1,0 +1,12 @@
+baseurl = "/"
+title = "Blikopener"
+author = "@PeterHoffenaar"
+copyright = "Copyright © 2017–2020, @PeterHoffenaar"
+canonifyurls = true
+paginate = 3
+
+theme = "hugo-blog-jeffprod"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"

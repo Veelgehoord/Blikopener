@@ -1,0 +1,19 @@
+---
+title: De babysimulator
+author: Peter Hoffenaar
+date: '2019-09-18'
+slug: de-babysimulator
+categories:
+  - Opvoeding
+tags:
+  - Opvoedingsstijlen
+  - Vaders vs. moeders
+archives: '2019'
+---
+Lissa (Leiden Infant Simulator Sensitivity Assessment) is een levensechte babypop die zelfs een boertje kan laten. Hier in Nederland is deze pop gebruikt om sensitief opvoedingsgedrag te meten. 
+
+Gabrielle McHarg van de universiteit van Cambridge schafte een soortgelijke pop aan, maar gebruikte de bluetooth luidspreker om de huiskamer met het geluid van een echte huilende baby te vullen. Ook was zij niet geïnteresseerd in de reactie van de ouders, maar in die van tweejarige kinderen. Wel turfde het onderzoeksteam hoe vaak de aanwezige vader of moeder vragen stelde over de gevoelens van de baby en hoe vaak ze iets zeiden over troosten of helpen. 
+
+Opvallend genoeg ging dat praten over gevoelens vaders en moeders even goed af. Maar jongetjes raakten wat eerder overstuur als hun moeder naast hen zat en meisjes leken empatischer met vader aan hun zij. Dit zou een aanwijzing voor genderspecifiek opvoeden kunnen zijn. Mogelijk moedigen vaders meisjes onbewust aan om mee te voelen en geven zij kleine jochies het idee dat ze cool en onaangedaan moeten blijven.
+
+McHarg, G., Fink, E., & Hughes, C. (2019). Crying babies, empathic toddlers, responsive mothers and fathers: Exploring parent-toddler interactions in an empathy paradigm. Journal of Experimental Child Psychology, 179, 23–37. https://doi.org/10.1016/j.jecp.2018.11.002
